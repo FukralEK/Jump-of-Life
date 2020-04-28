@@ -11,7 +11,7 @@
 		},
 		{
 			"Name": "GameJoltPlugIn",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "OneSkyLocalizationService",
